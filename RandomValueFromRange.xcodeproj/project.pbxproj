@@ -14,6 +14,7 @@
 		008A128326E9F32C0090AE1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 008A128226E9F32C0090AE1E /* Assets.xcassets */; };
 		008A128626E9F32C0090AE1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 008A128426E9F32C0090AE1E /* LaunchScreen.storyboard */; };
 		008A129326E9F4990090AE1E /* RangeValuesMinMax.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008A129226E9F4990090AE1E /* RangeValuesMinMax.swift */; };
+		008A129526EFBCAF0090AE1E /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008A129426EFBCAF0090AE1E /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		008A128526E9F32C0090AE1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		008A128726E9F32C0090AE1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		008A129226E9F4990090AE1E /* RangeValuesMinMax.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeValuesMinMax.swift; sourceTree = "<group>"; };
+		008A129426EFBCAF0090AE1E /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				008A127D26E9F3270090AE1E /* MainViewController.swift */,
+				008A129426EFBCAF0090AE1E /* SettingsViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				008A127E26E9F3270090AE1E /* MainViewController.swift in Sources */,
 				008A129326E9F4990090AE1E /* RangeValuesMinMax.swift in Sources */,
 				008A127A26E9F3270090AE1E /* AppDelegate.swift in Sources */,
+				008A129526EFBCAF0090AE1E /* SettingsViewController.swift in Sources */,
 				008A127C26E9F3270090AE1E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
